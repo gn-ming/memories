@@ -2,4 +2,4 @@ site_name: Memories
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme: mkdocs
